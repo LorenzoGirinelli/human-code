@@ -1,0 +1,22 @@
+1-Prendo il telefono
+2-Sblocco il telefono
+3-Apro la galleria
+    -seleziono foto delle vacanze
+    ? SE è un paesaggio mozzafiato
+        - aggiungilo alla cartella paesaggi
+
+    : ALTRIMENTI
+        - scarta foto
+
+4-apriamo cartella paesaggi mozzafiato
+    -per ogni foto applico un flitro
+    ? SE il filtro applicato migliora la luce e rende più vividi i colori
+        -apro Instagram e pubblico la foto
+
+    :ALTRIMENTI
+    -provo un altro filtro
+        ? SE nessun filtro migliora la luce e rende più vividi i colori
+            -scarto la foto
+
+        : ALTRIMENTI
+            - apro Instagram e pubblico la foto
